@@ -19,12 +19,12 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMedi
 
 main_buttons = [[
         InlineKeyboardButton('📢 Updates', url='http://t.me/Filmone_Backup'),
-        InlineKeyboardButton('💬 Support', url='https://t.me/MadflixBots_Support')
+        InlineKeyboardButton('💬 Support', url='https://t.me/Filmone_Request')
         ],[
         InlineKeyboardButton('🛠️ Help', callback_data='help'),
         InlineKeyboardButton('🩷 About', callback_data='about')
         ],[
-        InlineKeyboardButton('🧑‍💻 Developer 🧑‍💻', url='https://t.me/CallAdminRobot')
+        InlineKeyboardButton('🧑‍💻 Developer 🧑‍💻', url='https://t.me/Stylish_Star2')
         ]]
 
 
