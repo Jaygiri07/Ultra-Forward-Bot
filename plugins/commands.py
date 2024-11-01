@@ -18,7 +18,7 @@ from pyrogram import Client, filters, enums, __version__ as pyrogram_version
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMediaDocument
 
 main_buttons = [[
-        InlineKeyboardButton('📢 Updates', url='https://t.me/Madflix_Bots'),
+        InlineKeyboardButton('📢 Updates', url='http://t.me/Filmone_Backup'),
         InlineKeyboardButton('💬 Support', url='https://t.me/MadflixBots_Support')
         ],[
         InlineKeyboardButton('🛠️ Help', callback_data='help'),
